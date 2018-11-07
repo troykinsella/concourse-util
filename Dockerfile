@@ -12,6 +12,7 @@ RUN set -eux; \
       git \
       jq \
       make \
+      ruby \
       software-properties-common; \
     \
     git clone https://github.com/troykinsella/gitflow-avh; \

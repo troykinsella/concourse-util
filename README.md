@@ -11,6 +11,7 @@ Includes:
 * `gitflow`
 * `jq`
 * `make`
+* `ruby`
 
 ## Usage
 
