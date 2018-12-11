@@ -10,6 +10,7 @@ RUN set -eux; \
       curl \
       fish \
       git \
+      iproute2 \
       jq \
       make \
       ruby \
